@@ -1,0 +1,901 @@
+id,filename,category,articleType,baseColour,pred_colour,true_colour,pred_category
+2122,2122.jpg,T-shirt,Tops,Black,beige,black,T-shirt
+2302,2302.jpg,T-shirt,Tshirts,White,light grey,white,T-shirt
+3015,3015.jpg,T-shirt,Tshirts,Pink,red,pink,T-shirt
+3101,3101.jpg,T-shirt,Tshirts,Black,black,black,T-shirt
+3769,3769.jpg,T-shirt,Tshirts,Blue,denim,blue,shirt
+3789,3789.jpg,T-shirt,Tshirts,White,khaki,white,T-shirt
+3811,3811.jpg,T-shirt,Tshirts,Red,red,red,T-shirt
+3956,3956.jpg,T-shirt,Tops,Pink,cream,pink,T-shirt
+3980,3980.jpg,T-shirt,Tshirts,Red,red,red,T-shirt
+4088,4088.jpg,T-shirt,Tshirts,Purple,grey,purple,shirt
+4225,4225.jpg,T-shirt,Tshirts,Purple,charcoal,purple,T-shirt
+4410,4410.jpg,T-shirt,Tshirts,Navy Blue,charcoal,navy,T-shirt
+4416,4416.jpg,T-shirt,Tshirts,White,cream,white,T-shirt
+4752,4752.jpg,T-shirt,Tshirts,Red,red,red,shirt
+4868,4868.jpg,T-shirt,Tshirts,Orange,orange,orange,T-shirt
+4918,4918.jpg,T-shirt,Tops,Pink,light grey,pink,T-shirt
+4982,4982.jpg,T-shirt,Tops,Peach,light grey,,T-shirt
+5142,5142.jpg,T-shirt,Tshirts,Blue,light grey,blue,T-shirt
+5161,5161.jpg,T-shirt,Tshirts,Black,charcoal,black,T-shirt
+5231,5231.jpg,T-shirt,Tshirts,Navy Blue,charcoal,navy,shirt
+5497,5497.jpg,T-shirt,Tshirts,Pink,pink,pink,T-shirt
+5844,5844.jpg,T-shirt,Tops,Pink,tan,pink,T-shirt
+5846,5846.jpg,T-shirt,Tops,White,cream,white,T-shirt
+5869,5869.jpg,T-shirt,Tops,Yellow,yellow,yellow,T-shirt
+6174,6174.jpg,T-shirt,Tshirts,White,cream,white,shirt
+6571,6571.jpg,T-shirt,Tshirts,Yellow,cream,yellow,T-shirt
+7031,7031.jpg,T-shirt,Tshirts,White,beige,white,T-shirt
+7215,7215.jpg,T-shirt,Tops,Pink,pink,pink,dress
+7303,7303.jpg,T-shirt,Tops,Black,black,black,T-shirt
+7540,7540.jpg,T-shirt,Tshirts,Blue,light blue,blue,T-shirt
+7706,7706.jpg,T-shirt,Tops,Black,beige,black,T-shirt
+7798,7798.jpg,T-shirt,Tshirts,White,tan,white,shirt
+8367,8367.jpg,T-shirt,Tshirts,Pink,light grey,pink,T-shirt
+8379,8379.jpg,T-shirt,Tshirts,Green,khaki,green,T-shirt
+8408,8408.jpg,T-shirt,Tshirts,Red,maroon,red,T-shirt
+8412,8412.jpg,T-shirt,Tshirts,Blue,light blue,blue,T-shirt
+8436,8436.jpg,T-shirt,Tops,Pink,pink,pink,T-shirt
+9825,9825.jpg,T-shirt,Tshirts,Peach,tan,,T-shirt
+10674,10674.jpg,T-shirt,Tops,White,white,white,T-shirt
+10840,10840.jpg,T-shirt,Tshirts,Green,green,green,shirt
+11418,11418.jpg,T-shirt,Tshirts,Black,black,black,T-shirt
+11454,11454.jpg,T-shirt,Tshirts,Green,green,green,shirt
+12501,12501.jpg,T-shirt,Tshirts,Green,beige,green,T-shirt
+12633,12633.jpg,T-shirt,Tshirts,White,beige,white,T-shirt
+15206,15206.jpg,T-shirt,Tshirts,Peach,red,,T-shirt
+16899,16899.jpg,T-shirt,Tshirts,Black,charcoal,black,T-shirt
+17268,17268.jpg,T-shirt,Tshirts,Blue,charcoal,blue,T-shirt
+17275,17275.jpg,T-shirt,Tshirts,Black,grey,black,T-shirt
+17615,17615.jpg,T-shirt,Tshirts,White,white,white,T-shirt
+18981,18981.jpg,T-shirt,Tshirts,Blue,denim,blue,T-shirt
+19590,19590.jpg,T-shirt,Tops,White,white,white,T-shirt
+19681,19681.jpg,T-shirt,Tops,Olive,grey,olive,dress
+20132,20132.jpg,T-shirt,Tops,Green,grey,green,shirt
+21409,21409.jpg,T-shirt,Tshirts,Grey,light grey,grey,T-shirt
+24036,24036.jpg,T-shirt,Tshirts,Red,maroon,red,T-shirt
+24972,24972.jpg,T-shirt,Tshirts,Pink,pink,pink,T-shirt
+26305,26305.jpg,T-shirt,Tshirts,Cream,tan,cream,T-shirt
+26306,26306.jpg,T-shirt,Tshirts,Grey,beige,grey,T-shirt
+26477,26477.jpg,T-shirt,Tshirts,White,white,white,T-shirt
+26493,26493.jpg,T-shirt,Tshirts,White,light grey,white,T-shirt
+26912,26912.jpg,T-shirt,Tops,Magenta,pink,,dress
+26969,26969.jpg,T-shirt,Tops,White,light grey,white,T-shirt
+28564,28564.jpg,T-shirt,Tshirts,Black,charcoal,black,T-shirt
+28570,28570.jpg,T-shirt,Tshirts,Black,charcoal,black,T-shirt
+29788,29788.jpg,T-shirt,Tshirts,White,beige,white,T-shirt
+30141,30141.jpg,T-shirt,Tshirts,Yellow,beige,yellow,T-shirt
+30300,30300.jpg,T-shirt,Tshirts,Off White,cream,,T-shirt
+30647,30647.jpg,T-shirt,Tshirts,Black,charcoal,black,T-shirt
+30908,30908.jpg,T-shirt,Tops,Red,maroon,red,shirt
+31797,31797.jpg,T-shirt,Tshirts,Black,charcoal,black,T-shirt
+33143,33143.jpg,T-shirt,Tshirts,Navy Blue,light grey,navy,T-shirt
+33253,33253.jpg,T-shirt,Tshirts,Yellow,mustard,yellow,T-shirt
+34000,34000.jpg,T-shirt,Tops,Black,charcoal,black,shirt
+34218,34218.jpg,T-shirt,Tshirts,Off White,cream,,shirt
+34237,34237.jpg,T-shirt,Tshirts,Rust,red,,shirt
+34331,34331.jpg,T-shirt,Tshirts,Purple,lavender,purple,T-shirt
+35261,35261.jpg,T-shirt,Tops,White,light grey,white,T-shirt
+37624,37624.jpg,T-shirt,Tshirts,Navy Blue,black,navy,T-shirt
+38609,38609.jpg,T-shirt,Tshirts,Blue,denim,blue,T-shirt
+38619,38619.jpg,T-shirt,Tshirts,Multi,mustard,,T-shirt
+39717,39717.jpg,T-shirt,Tops,Red,red,red,T-shirt
+39719,39719.jpg,T-shirt,Tops,Beige,beige,beige,T-shirt
+39834,39834.jpg,T-shirt,Tshirts,Yellow,yellow,yellow,T-shirt
+41789,41789.jpg,T-shirt,Tops,Black,black,black,T-shirt
+43084,43084.jpg,T-shirt,Tshirts,Green,teal,green,T-shirt
+48240,48240.jpg,T-shirt,Tshirts,Yellow,khaki,yellow,T-shirt
+48243,48243.jpg,T-shirt,Tshirts,Black,charcoal,black,T-shirt
+48253,48253.jpg,T-shirt,Tshirts,White,light grey,white,T-shirt
+48409,48409.jpg,T-shirt,Tshirts,Orange,brown,orange,T-shirt
+48422,48422.jpg,T-shirt,Tshirts,White,light grey,white,T-shirt
+49637,49637.jpg,T-shirt,Tops,Pink,maroon,pink,T-shirt
+51372,51372.jpg,T-shirt,Tshirts,Red,maroon,red,T-shirt
+52059,52059.jpg,T-shirt,Tshirts,White,cream,white,T-shirt
+52079,52079.jpg,T-shirt,Tshirts,White,beige,white,shirt
+53762,53762.jpg,T-shirt,Tshirts,Navy Blue,black,navy,T-shirt
+53797,53797.jpg,T-shirt,Tshirts,Black,black,black,T-shirt
+54084,54084.jpg,T-shirt,Tops,Blue,charcoal,blue,T-shirt
+57154,57154.jpg,T-shirt,Tshirts,Grey Melange,light grey,,T-shirt
+57156,57156.jpg,T-shirt,Tshirts,Pink,beige,pink,T-shirt
+59796,59796.jpg,T-shirt,Tops,Blue,charcoal,blue,T-shirt
+1941,1941.jpg,accessory,Handbags,Brown,grey,brown,accessory
+3404,3404.jpg,accessory,Handbags,Red,red,red,accessory
+4695,4695.jpg,accessory,Watches,Black,grey,black,accessory
+4706,4706.jpg,accessory,Watches,Black,charcoal,black,accessory
+4712,4712.jpg,accessory,Watches,Black,charcoal,black,accessory
+8111,8111.jpg,accessory,Belts,Blue,light blue,blue,accessory
+8237,8237.jpg,accessory,Handbags,Blue,charcoal,blue,accessory
+8642,8642.jpg,accessory,Sunglasses,Pink,light grey,pink,accessory
+8660,8660.jpg,accessory,Sunglasses,Green,khaki,green,accessory
+10395,10395.jpg,accessory,Watches,Red,red,red,accessory
+11259,11259.jpg,accessory,Caps,Black,black,black,accessory
+14813,14813.jpg,accessory,Handbags,Red,red,red,accessory
+14905,14905.jpg,accessory,Belts,Red,maroon,red,accessory
+16109,16109.jpg,accessory,Sunglasses,Brown,grey,brown,accessory
+16775,16775.jpg,accessory,Watches,Brown,olive,brown,accessory
+17225,17225.jpg,accessory,Sunglasses,Blue,lavender,blue,jeans
+17638,17638.jpg,accessory,Scarves,Red,black,red,accessory
+18814,18814.jpg,accessory,Belts,Khaki,brown,khaki,accessory
+18841,18841.jpg,accessory,Belts,Tan,brown,tan,accessory
+19510,19510.jpg,accessory,Belts,Brown,brown,brown,accessory
+19755,19755.jpg,accessory,Watches,Lavender,lavender,lavender,accessory
+20394,20394.jpg,accessory,Handbags,Red,maroon,red,accessory
+20419,20419.jpg,accessory,Handbags,Blue,charcoal,blue,accessory
+20604,20604.jpg,accessory,Handbags,Brown,charcoal,brown,accessory
+21344,21344.jpg,accessory,Sunglasses,Black,grey,black,accessory
+21487,21487.jpg,accessory,Handbags,Black,charcoal,black,accessory
+21990,21990.jpg,accessory,Handbags,Black,black,black,accessory
+22003,22003.jpg,accessory,Handbags,Blue,charcoal,blue,accessory
+23727,23727.jpg,accessory,Sunglasses,Black,grey,black,accessory
+23787,23787.jpg,accessory,Sunglasses,Purple,lavender,purple,accessory
+23790,23790.jpg,accessory,Sunglasses,Black,grey,black,accessory
+25238,25238.jpg,accessory,Handbags,Grey,grey,grey,accessory
+25297,25297.jpg,accessory,Handbags,Brown,tan,brown,accessory
+25325,25325.jpg,accessory,Watches,Black,black,black,accessory
+25326,25326.jpg,accessory,Watches,Black,grey,black,accessory
+25946,25946.jpg,accessory,Scarves,Brown,brown,brown,accessory
+25948,25948.jpg,accessory,Scarves,Green,grey,green,accessory
+26337,26337.jpg,accessory,Watches,White,light grey,white,accessory
+27046,27046.jpg,accessory,Handbags,Brown,charcoal,brown,accessory
+27734,27734.jpg,accessory,Handbags,Brown,charcoal,brown,accessory
+28183,28183.jpg,accessory,Sunglasses,Gold,light grey,,accessory
+28296,28296.jpg,accessory,Sunglasses,Black,light grey,black,accessory
+28351,28351.jpg,accessory,Sunglasses,Steel,charcoal,,accessory
+29032,29032.jpg,accessory,Caps,Blue,navy,blue,accessory
+29462,29462.jpg,accessory,Watches,White,light grey,white,accessory
+29892,29892.jpg,accessory,Sunglasses,Brown,grey,brown,accessory
+29988,29988.jpg,accessory,Watches,White,light grey,white,accessory
+30095,30095.jpg,accessory,Watches,Black,grey,black,accessory
+30266,30266.jpg,accessory,Sunglasses,Black,grey,black,accessory
+31913,31913.jpg,accessory,Handbags,Pink,pink,pink,accessory
+32305,32305.jpg,accessory,Watches,Red,maroon,red,accessory
+32317,32317.jpg,accessory,Watches,Red,maroon,red,accessory
+32358,32358.jpg,accessory,Watches,White,light grey,white,accessory
+32423,32423.jpg,accessory,Caps,Black,black,black,accessory
+33428,33428.jpg,accessory,Handbags,Purple,charcoal,purple,accessory
+33933,33933.jpg,accessory,Watches,Black,charcoal,black,accessory
+35911,35911.jpg,accessory,Handbags,Red,red,red,accessory
+36020,36020.jpg,accessory,Belts,Brown,grey,brown,accessory
+36024,36024.jpg,accessory,Belts,Brown,charcoal,brown,accessory
+37089,37089.jpg,accessory,Handbags,Brown,grey,brown,accessory
+38186,38186.jpg,accessory,Sunglasses,Silver,charcoal,,accessory
+38228,38228.jpg,accessory,Sunglasses,Black,charcoal,black,accessory
+38458,38458.jpg,accessory,Handbags,Orange,red,orange,accessory
+39493,39493.jpg,accessory,Caps,Black,black,black,accessory
+40062,40062.jpg,accessory,Caps,Orange,red,orange,accessory
+40224,40224.jpg,accessory,Belts,Brown,charcoal,brown,accessory
+40767,40767.jpg,accessory,Caps,Grey,charcoal,grey,accessory
+41028,41028.jpg,accessory,Caps,Olive,charcoal,olive,accessory
+42939,42939.jpg,accessory,Belts,Black,charcoal,black,accessory
+42941,42941.jpg,accessory,Belts,Brown,charcoal,brown,accessory
+43148,43148.jpg,accessory,Watches,Blue,charcoal,blue,accessory
+45237,45237.jpg,accessory,Watches,Black,black,black,accessory
+45244,45244.jpg,accessory,Watches,Black,grey,black,accessory
+45246,45246.jpg,accessory,Watches,Black,charcoal,black,accessory
+45288,45288.jpg,accessory,Watches,Black,light grey,black,accessory
+45896,45896.jpg,accessory,Watches,White,light grey,white,accessory
+45916,45916.jpg,accessory,Watches,Black,light grey,black,accessory
+46437,46437.jpg,accessory,Watches,White,light grey,white,accessory
+46475,46475.jpg,accessory,Watches,Blue,light grey,blue,accessory
+46525,46525.jpg,accessory,Watches,Silver,light grey,,accessory
+47305,47305.jpg,accessory,Handbags,Brown,charcoal,brown,accessory
+47326,47326.jpg,accessory,Handbags,Olive,charcoal,olive,accessory
+48030,48030.jpg,accessory,Watches,White,light grey,white,accessory
+48184,48184.jpg,accessory,Handbags,Brown,brown,brown,accessory
+49559,49559.jpg,accessory,Handbags,Purple,charcoal,purple,accessory
+50206,50206.jpg,accessory,Sunglasses,Pink,grey,pink,accessory
+50210,50210.jpg,accessory,Sunglasses,Black,grey,black,accessory
+51523,51523.jpg,accessory,Watches,Black,black,black,accessory
+51920,51920.jpg,accessory,Handbags,Blue,charcoal,blue,accessory
+52691,52691.jpg,accessory,Watches,Brown,grey,brown,accessory
+52758,52758.jpg,accessory,Handbags,Brown,charcoal,brown,accessory
+53612,53612.jpg,accessory,Watches,Black,charcoal,black,accessory
+53653,53653.jpg,accessory,Handbags,Grey,light grey,grey,accessory
+54380,54380.jpg,accessory,Handbags,Green,charcoal,green,accessory
+54394,54394.jpg,accessory,Handbags,Orange,red,orange,accessory
+54488,54488.jpg,accessory,Handbags,Green,tan,green,accessory
+54813,54813.jpg,accessory,Handbags,Brown,charcoal,brown,accessory
+57244,57244.jpg,accessory,Handbags,Beige,beige,beige,accessory
+57256,57256.jpg,accessory,Handbags,Pink,pink,pink,accessory
+58188,58188.jpg,accessory,Handbags,Blue,charcoal,blue,accessory
+2704,2704.jpg,dress,Dresses,White,light grey,white,dress
+2708,2708.jpg,dress,Dresses,White,white,white,dress
+2711,2711.jpg,dress,Dresses,Pink,light grey,pink,accessory
+4984,4984.jpg,dress,Dresses,White,light grey,white,dress
+4987,4987.jpg,dress,Dresses,White,white,white,dress
+5008,5008.jpg,dress,Dresses,Blue,denim,blue,dress
+5566,5566.jpg,dress,Dresses,Maroon,maroon,maroon,dress
+6873,6873.jpg,dress,Dresses,Black,charcoal,black,dress
+6875,6875.jpg,dress,Dresses,Black,charcoal,black,dress
+11261,11261.jpg,dress,Dresses,Red,charcoal,red,T-shirt
+12837,12837.jpg,dress,Dresses,Pink,grey,pink,dress
+13290,13290.jpg,dress,Dresses,Pink,pink,pink,skirt
+13470,13470.jpg,dress,Dresses,Pink,pink,pink,skirt
+18174,18174.jpg,dress,Dresses,Lavender,lavender,lavender,dress
+18758,18758.jpg,dress,Dresses,Black,charcoal,black,dress
+25907,25907.jpg,dress,Dresses,Purple,navy,purple,dress
+25908,25908.jpg,dress,Dresses,Red,red,red,dress
+26355,26355.jpg,dress,Dresses,Purple,light grey,purple,dress
+26927,26927.jpg,dress,Dresses,Black,beige,black,dress
+26928,26928.jpg,dress,Dresses,Black,black,black,dress
+27224,27224.jpg,dress,Dresses,White,light grey,white,dress
+27228,27228.jpg,dress,Dresses,Pink,pink,pink,dress
+29167,29167.jpg,dress,Dresses,Red,maroon,red,dress
+31127,31127.jpg,dress,Dresses,Black,charcoal,black,dress
+31128,31128.jpg,dress,Dresses,Blue,light grey,blue,dress
+31167,31167.jpg,dress,Dresses,Blue,light blue,blue,dress
+32582,32582.jpg,dress,Dresses,Yellow,mustard,yellow,dress
+33199,33199.jpg,dress,Dresses,Red,tan,red,dress
+33486,33486.jpg,dress,Dresses,Blue,denim,blue,accessory
+33969,33969.jpg,dress,Dresses,Black,charcoal,black,dress
+34095,34095.jpg,dress,Dresses,Off White,light grey,,dress
+34167,34167.jpg,dress,Dresses,White,light grey,white,skirt
+34473,34473.jpg,dress,Dresses,Navy Blue,navy,navy,dress
+34570,34570.jpg,dress,Dresses,Black,charcoal,black,skirt
+34572,34572.jpg,dress,Dresses,Black,black,black,dress
+34586,34586.jpg,dress,Dresses,Black,light grey,black,dress
+34598,34598.jpg,dress,Dresses,Black,black,black,T-shirt
+37198,37198.jpg,dress,Dresses,Red,pink,red,dress
+37929,37929.jpg,dress,Dresses,Pink,pink,pink,dress
+38828,38828.jpg,dress,Dresses,Teal,charcoal,teal,dress
+38839,38839.jpg,dress,Dresses,Olive,black,olive,dress
+38842,38842.jpg,dress,Dresses,Purple,beige,purple,dress
+38846,38846.jpg,dress,Dresses,Brown,beige,brown,dress
+39227,39227.jpg,dress,Dresses,Purple,charcoal,purple,dress
+39232,39232.jpg,dress,Dresses,Blue,denim,blue,dress
+40430,40430.jpg,dress,Dresses,Grey,light grey,grey,dress
+41140,41140.jpg,dress,Dresses,White,cream,white,dress
+41570,41570.jpg,dress,Dresses,Pink,pink,pink,dress
+41798,41798.jpg,dress,Dresses,Pink,beige,pink,dress
+43512,43512.jpg,dress,Dresses,Blue,charcoal,blue,dress
+43648,43648.jpg,dress,Dresses,Cream,beige,cream,dress
+43658,43658.jpg,dress,Dresses,Black,black,black,dress
+43677,43677.jpg,dress,Dresses,Navy Blue,charcoal,navy,dress
+43919,43919.jpg,dress,Dresses,Navy Blue,charcoal,navy,dress
+44944,44944.jpg,dress,Dresses,Navy Blue,black,navy,dress
+46271,46271.jpg,dress,Dresses,Blue,navy,blue,dress
+47656,47656.jpg,dress,Dresses,Black,beige,black,dress
+48469,48469.jpg,dress,Dresses,Black,black,black,dress
+48477,48477.jpg,dress,Dresses,Cream,cream,cream,dress
+48481,48481.jpg,dress,Dresses,Black,black,black,dress
+48482,48482.jpg,dress,Dresses,Red,maroon,red,dress
+48484,48484.jpg,dress,Dresses,Blue,grey,blue,dress
+49633,49633.jpg,dress,Dresses,Red,red,red,dress
+49646,49646.jpg,dress,Dresses,Navy Blue,charcoal,navy,dress
+49648,49648.jpg,dress,Dresses,Cream,beige,cream,dress
+51457,51457.jpg,dress,Dresses,Black,black,black,dress
+52124,52124.jpg,dress,Dresses,Orange,tan,orange,T-shirt
+52128,52128.jpg,dress,Dresses,Blue,grey,blue,dress
+52131,52131.jpg,dress,Dresses,Blue,light grey,blue,dress
+54973,54973.jpg,dress,Dresses,Off White,light grey,,dress
+54974,54974.jpg,dress,Dresses,Black,black,black,dress
+54980,54980.jpg,dress,Dresses,Grey,brown,grey,dress
+57035,57035.jpg,dress,Dresses,Multi,light grey,,dress
+57036,57036.jpg,dress,Dresses,Black,charcoal,black,dress
+57038,57038.jpg,dress,Dresses,Blue,light grey,blue,dress
+57042,57042.jpg,dress,Dresses,Black,black,black,dress
+57043,57043.jpg,dress,Dresses,Black,black,black,dress
+57045,57045.jpg,dress,Dresses,Black,black,black,dress
+57054,57054.jpg,dress,Dresses,Yellow,beige,yellow,dress
+57056,57056.jpg,dress,Dresses,Cream,beige,cream,dress
+57059,57059.jpg,dress,Dresses,Red,maroon,red,dress
+57988,57988.jpg,dress,Dresses,Orange,beige,orange,dress
+57995,57995.jpg,dress,Dresses,Black,grey,black,dress
+58001,58001.jpg,dress,Dresses,Black,grey,black,dress
+58425,58425.jpg,dress,Dresses,Grey,grey,grey,dress
+58502,58502.jpg,dress,Dresses,Beige,grey,beige,dress
+58506,58506.jpg,dress,Dresses,Blue,grey,blue,skirt
+59895,59895.jpg,dress,Dresses,Orange,tan,orange,dress
+59964,59964.jpg,dress,Dresses,Black,grey,black,dress
+59966,59966.jpg,dress,Dresses,Black,black,black,dress
+59971,59971.jpg,dress,Dresses,Multi,light grey,,dress
+59972,59972.jpg,dress,Dresses,Black,black,black,dress
+59973,59973.jpg,dress,Dresses,Navy Blue,black,navy,dress
+59975,59975.jpg,dress,Dresses,Black,black,black,dress
+59976,59976.jpg,dress,Dresses,Black,black,black,dress
+59979,59979.jpg,dress,Dresses,Multi,grey,,dress
+59980,59980.jpg,dress,Dresses,Black,black,black,dress
+59986,59986.jpg,dress,Dresses,Black,grey,black,dress
+59989,59989.jpg,dress,Dresses,Black,black,black,dress
+59995,59995.jpg,dress,Dresses,Black,black,black,dress
+1806,1806.jpg,footwear,Sandals,Brown,charcoal,brown,footwear
+2225,2225.jpg,footwear,Sandals,Black,charcoal,black,footwear
+3236,3236.jpg,footwear,Casual Shoes,Red,maroon,red,footwear
+3509,3509.jpg,footwear,Sandals,Blue,charcoal,blue,footwear
+3802,3802.jpg,footwear,Casual Shoes,Grey,black,grey,footwear
+4164,4164.jpg,footwear,Sports Shoes,Silver,light grey,,footwear
+5411,5411.jpg,footwear,Sports Shoes,Black,charcoal,black,footwear
+5482,5482.jpg,footwear,Sports Shoes,Black,charcoal,black,footwear
+5541,5541.jpg,footwear,Sports Shoes,Grey,light grey,grey,footwear
+5702,5702.jpg,footwear,Casual Shoes,Black,charcoal,black,footwear
+6145,6145.jpg,footwear,Sandals,Black,charcoal,black,footwear
+6169,6169.jpg,footwear,Flip Flops,Blue,light blue,blue,footwear
+6184,6184.jpg,footwear,Flip Flops,Red,brown,red,footwear
+6326,6326.jpg,footwear,Flip Flops,Blue,charcoal,blue,footwear
+6388,6388.jpg,footwear,Sports Shoes,Black,charcoal,black,footwear
+6462,6462.jpg,footwear,Casual Shoes,Black,charcoal,black,footwear
+6507,6507.jpg,footwear,Formal Shoes,Black,charcoal,black,footwear
+6663,6663.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+6725,6725.jpg,footwear,Casual Shoes,Grey,light grey,grey,footwear
+6741,6741.jpg,footwear,Sports Shoes,Black,denim,black,footwear
+6808,6808.jpg,footwear,Casual Shoes,Yellow,tan,yellow,footwear
+6855,6855.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+7043,7043.jpg,footwear,Casual Shoes,White,white,white,footwear
+7256,7256.jpg,footwear,Sandals,Brown,charcoal,brown,footwear
+7382,7382.jpg,footwear,Formal Shoes,Black,charcoal,black,footwear
+7383,7383.jpg,footwear,Formal Shoes,Black,charcoal,black,footwear
+8236,8236.jpg,footwear,Formal Shoes,Black,charcoal,black,footwear
+8532,8532.jpg,footwear,Sports Shoes,Silver,light grey,,footwear
+8997,8997.jpg,footwear,Casual Shoes,Black,black,black,footwear
+10125,10125.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+10173,10173.jpg,footwear,Sandals,Brown,black,brown,footwear
+10265,10265.jpg,footwear,Formal Shoes,Brown,brown,brown,footwear
+10275,10275.jpg,footwear,Formal Shoes,Black,charcoal,black,footwear
+10286,10286.jpg,footwear,Formal Shoes,Black,charcoal,black,footwear
+11900,11900.jpg,footwear,Formal Shoes,Black,grey,black,footwear
+11950,11950.jpg,footwear,Casual Shoes,Beige,tan,beige,footwear
+12475,12475.jpg,footwear,Sandals,Tan,brown,tan,footwear
+13042,13042.jpg,footwear,Flats,Brown,charcoal,brown,footwear
+13479,13479.jpg,footwear,Flats,White,light grey,white,footwear
+13982,13982.jpg,footwear,Sports Shoes,Black,black,black,footwear
+14335,14335.jpg,footwear,Casual Shoes,Black,black,black,footwear
+14359,14359.jpg,footwear,Heels,Copper,tan,,footwear
+15231,15231.jpg,footwear,Casual Shoes,White,light grey,white,footwear
+15374,15374.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+15497,15497.jpg,footwear,Heels,Black,grey,black,footwear
+15874,15874.jpg,footwear,Flip Flops,Green,khaki,green,footwear
+15888,15888.jpg,footwear,Sandals,Green,green,green,footwear
+16248,16248.jpg,footwear,Flip Flops,Black,charcoal,black,footwear
+17648,17648.jpg,footwear,Flip Flops,Black,black,black,footwear
+17683,17683.jpg,footwear,Casual Shoes,Black,charcoal,black,footwear
+17737,17737.jpg,footwear,Flats,Black,charcoal,black,footwear
+18411,18411.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+19368,19368.jpg,footwear,Casual Shoes,Grey,charcoal,grey,footwear
+20275,20275.jpg,footwear,Heels,Multi,olive,,footwear
+22145,22145.jpg,footwear,Formal Shoes,Tan,tan,tan,footwear
+22150,22150.jpg,footwear,Sandals,Brown,brown,brown,footwear
+22168,22168.jpg,footwear,Casual Shoes,Brown,brown,brown,footwear
+22724,22724.jpg,footwear,Sports Shoes,Blue,grey,blue,footwear
+23093,23093.jpg,footwear,Casual Shoes,White,light grey,white,footwear
+23245,23245.jpg,footwear,Formal Shoes,Coffee Brown,charcoal,,footwear
+24186,24186.jpg,footwear,Casual Shoes,Black,maroon,black,footwear
+24425,24425.jpg,footwear,Sports Shoes,Silver,light grey,,footwear
+24473,24473.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+25417,25417.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+26616,26616.jpg,footwear,Sports Shoes,Grey,grey,grey,footwear
+26642,26642.jpg,footwear,Casual Shoes,Black,black,black,footwear
+26689,26689.jpg,footwear,Sandals,Black,black,black,footwear
+27083,27083.jpg,footwear,Heels,Gold,brown,,footwear
+27253,27253.jpg,footwear,Sports Shoes,Blue,denim,blue,footwear
+28318,28318.jpg,footwear,Casual Shoes,Brown,brown,brown,footwear
+33821,33821.jpg,footwear,Sports Shoes,Blue,denim,blue,footwear
+34628,34628.jpg,footwear,Casual Shoes,Black,grey,black,footwear
+35931,35931.jpg,footwear,Sports Shoes,Black,charcoal,black,footwear
+39256,39256.jpg,footwear,Formal Shoes,Brown,tan,brown,footwear
+39940,39940.jpg,footwear,Casual Shoes,Grey,charcoal,grey,footwear
+39961,39961.jpg,footwear,Sandals,Brown,grey,brown,footwear
+40311,40311.jpg,footwear,Sandals,Pink,pink,pink,footwear
+41468,41468.jpg,footwear,Casual Shoes,Olive,grey,olive,footwear
+42015,42015.jpg,footwear,Sports Shoes,White,light grey,white,footwear
+42986,42986.jpg,footwear,Flip Flops,Black,grey,black,footwear
+43883,43883.jpg,footwear,Flats,Black,grey,black,footwear
+44732,44732.jpg,footwear,Flip Flops,Purple,denim,purple,footwear
+44741,44741.jpg,footwear,Casual Shoes,White,light grey,white,footwear
+45358,45358.jpg,footwear,Heels,Brown,brown,brown,footwear
+46337,46337.jpg,footwear,Casual Shoes,Black,charcoal,black,footwear
+46599,46599.jpg,footwear,Heels,Tan,tan,tan,footwear
+46609,46609.jpg,footwear,Heels,Tan,tan,tan,accessory
+46851,46851.jpg,footwear,Flip Flops,Pink,maroon,pink,footwear
+47089,47089.jpg,footwear,Flip Flops,Red,brown,red,footwear
+47112,47112.jpg,footwear,Sandals,Red,maroon,red,footwear
+47572,47572.jpg,footwear,Heels,Brown,grey,brown,footwear
+49483,49483.jpg,footwear,Casual Shoes,Black,black,black,footwear
+49823,49823.jpg,footwear,Flip Flops,Black,grey,black,footwear
+49824,49824.jpg,footwear,Flip Flops,Pink,pink,pink,footwear
+54069,54069.jpg,footwear,Flip Flops,Navy Blue,charcoal,navy,footwear
+54138,54138.jpg,footwear,Heels,Black,grey,black,footwear
+56893,56893.jpg,footwear,Flats,Multi,light grey,,footwear
+56966,56966.jpg,footwear,Heels,Black,cream,black,footwear
+56999,56999.jpg,footwear,Flats,Red,beige,red,footwear
+59938,59938.jpg,footwear,Casual Shoes,Black,grey,black,footwear
+1579,1579.jpg,jacket,Jackets,Grey,beige,grey,shirt
+1622,1622.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+2031,2031.jpg,jacket,Jackets,Black,charcoal,black,shirt
+4847,4847.jpg,jacket,Jackets,Black,charcoal,black,jacket
+4848,4848.jpg,jacket,Jackets,Navy Blue,black,navy,jacket
+6504,6504.jpg,jacket,Jackets,Blue,light blue,blue,jacket
+6783,6783.jpg,jacket,Jackets,Blue,blue,blue,jacket
+6785,6785.jpg,jacket,Jackets,Red,red,red,jacket
+6786,6786.jpg,jacket,Jackets,Black,charcoal,black,jacket
+6878,6878.jpg,jacket,Jackets,Blue,blue,blue,dress
+6880,6880.jpg,jacket,Jackets,Black,charcoal,black,dress
+6882,6882.jpg,jacket,Jackets,Cream,cream,cream,dress
+6887,6887.jpg,jacket,Jackets,Blue,cream,blue,T-shirt
+7683,7683.jpg,jacket,Jackets,Black,charcoal,black,jacket
+7769,7769.jpg,jacket,Jackets,Red,red,red,jacket
+8477,8477.jpg,jacket,Jackets,Blue,light grey,blue,jacket
+9768,9768.jpg,jacket,Jackets,Black,charcoal,black,jacket
+9947,9947.jpg,jacket,Jackets,Blue,light blue,blue,jacket
+10777,10777.jpg,jacket,Jackets,Purple,purple,purple,jacket
+13092,13092.jpg,jacket,Jackets,White,light grey,white,shirt
+13105,13105.jpg,jacket,Jackets,Black,grey,black,jacket
+13120,13120.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+13835,13835.jpg,jacket,Jackets,Black,charcoal,black,jacket
+13995,13995.jpg,jacket,Jackets,Blue,denim,blue,T-shirt
+14309,14309.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+14310,14310.jpg,jacket,Jackets,Grey,grey,grey,jacket
+14322,14322.jpg,jacket,Jackets,Black,charcoal,black,jacket
+14702,14702.jpg,jacket,Jackets,Black,charcoal,black,jacket
+14959,14959.jpg,jacket,Jackets,Grey,light grey,grey,jacket
+15005,15005.jpg,jacket,Jackets,Grey,light grey,grey,jacket
+15006,15006.jpg,jacket,Jackets,White,grey,white,jacket
+15007,15007.jpg,jacket,Jackets,Black,charcoal,black,jacket
+15008,15008.jpg,jacket,Jackets,White,beige,white,jacket
+15009,15009.jpg,jacket,Jackets,Blue,blue,blue,jacket
+15039,15039.jpg,jacket,Jackets,Pink,purple,pink,jacket
+15043,15043.jpg,jacket,Jackets,Black,charcoal,black,jacket
+15047,15047.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+15321,15321.jpg,jacket,Jackets,Black,charcoal,black,jacket
+15462,15462.jpg,jacket,Jackets,Black,charcoal,black,jacket
+15465,15465.jpg,jacket,Jackets,Green,green,green,jacket
+15601,15601.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+15626,15626.jpg,jacket,Jackets,Red,red,red,jacket
+15630,15630.jpg,jacket,Jackets,Black,charcoal,black,jacket
+15962,15962.jpg,jacket,Jackets,Khaki,beige,khaki,shirt
+15963,15963.jpg,jacket,Jackets,Grey,grey,grey,shirt
+15966,15966.jpg,jacket,Jackets,Grey,grey,grey,jacket
+16719,16719.jpg,jacket,Jackets,Black,charcoal,black,jacket
+17151,17151.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+17626,17626.jpg,jacket,Jackets,White,white,white,shirt
+17628,17628.jpg,jacket,Jackets,Charcoal,grey,charcoal,jacket
+17900,17900.jpg,jacket,Jackets,Red,red,red,jacket
+17911,17911.jpg,jacket,Jackets,Black,black,black,jacket
+18205,18205.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+18509,18509.jpg,jacket,Jackets,Black,beige,black,jacket
+18512,18512.jpg,jacket,Jackets,Red,red,red,jacket
+18518,18518.jpg,jacket,Jackets,Navy Blue,beige,navy,jacket
+19004,19004.jpg,jacket,Jackets,Red,red,red,shirt
+19012,19012.jpg,jacket,Jackets,Pink,pink,pink,jacket
+19241,19241.jpg,jacket,Jackets,Black,grey,black,jacket
+19245,19245.jpg,jacket,Jackets,Blue,denim,blue,jacket
+19331,19331.jpg,jacket,Jackets,Navy Blue,grey,navy,jacket
+19332,19332.jpg,jacket,Jackets,Black,grey,black,jacket
+19335,19335.jpg,jacket,Jackets,White,beige,white,jacket
+19342,19342.jpg,jacket,Jackets,Black,charcoal,black,jacket
+19394,19394.jpg,jacket,Jackets,Blue,light blue,blue,jacket
+19857,19857.jpg,jacket,Jackets,Navy Blue,light grey,navy,accessory
+19858,19858.jpg,jacket,Jackets,Black,charcoal,black,jacket
+19859,19859.jpg,jacket,Jackets,Olive,grey,olive,jacket
+20376,20376.jpg,jacket,Jackets,Blue,blue,blue,jacket
+20377,20377.jpg,jacket,Jackets,Pink,pink,pink,jacket
+20793,20793.jpg,jacket,Jackets,Beige,light grey,beige,jacket
+22312,22312.jpg,jacket,Jackets,Black,charcoal,black,jacket
+22314,22314.jpg,jacket,Jackets,Black,black,black,jacket
+22317,22317.jpg,jacket,Jackets,Khaki,beige,khaki,shirt
+23149,23149.jpg,jacket,Jackets,Black,charcoal,black,jacket
+23150,23150.jpg,jacket,Jackets,Purple,denim,purple,shirt
+23962,23962.jpg,jacket,Jackets,Grey,charcoal,grey,accessory
+24845,24845.jpg,jacket,Jackets,Beige,beige,beige,jacket
+25031,25031.jpg,jacket,Jackets,Black,charcoal,black,jacket
+27525,27525.jpg,jacket,Jackets,Olive,grey,olive,jacket
+28540,28540.jpg,jacket,Jackets,Red,red,red,jacket
+30611,30611.jpg,jacket,Jackets,Grey,charcoal,grey,jacket
+31443,31443.jpg,jacket,Jackets,Red,red,red,jacket
+36208,36208.jpg,jacket,Jackets,Black,charcoal,black,jacket
+39496,39496.jpg,jacket,Jackets,Black,black,black,jacket
+39754,39754.jpg,jacket,Jackets,Red,maroon,red,jacket
+40922,40922.jpg,jacket,Jackets,Blue,blue,blue,accessory
+43673,43673.jpg,jacket,Jackets,Blue,light grey,blue,jacket
+46121,46121.jpg,jacket,Jackets,Black,charcoal,black,jacket
+53435,53435.jpg,jacket,Jackets,Black,black,black,jacket
+57064,57064.jpg,jacket,Jackets,Black,black,black,jacket
+57068,57068.jpg,jacket,Jackets,Blue,black,blue,accessory
+59106,59106.jpg,jacket,Jackets,Black,charcoal,black,jacket
+59112,59112.jpg,jacket,Jackets,Olive,charcoal,olive,jacket
+59116,59116.jpg,jacket,Jackets,Olive,charcoal,olive,jacket
+59117,59117.jpg,jacket,Jackets,Black,charcoal,black,jacket
+59118,59118.jpg,jacket,Jackets,Navy Blue,charcoal,navy,jacket
+59121,59121.jpg,jacket,Jackets,Black,black,black,jacket
+59129,59129.jpg,jacket,Jackets,Black,black,black,jacket
+59133,59133.jpg,jacket,Jackets,Brown,grey,brown,jacket
+7185,7185.jpg,jeans,Jeans,Blue,grey,blue,jeans
+7186,7186.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+7190,7190.jpg,jeans,Jeans,Black,charcoal,black,trousers
+7191,7191.jpg,jeans,Jeans,Grey,grey,grey,trousers
+7708,7708.jpg,jeans,Jeans,Blue,grey,blue,jeans
+9149,9149.jpg,jeans,Jeans,Blue,charcoal,blue,trousers
+9161,9161.jpg,jeans,Jeans,Blue,grey,blue,jeans
+9166,9166.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+9176,9176.jpg,jeans,Jeans,Grey,charcoal,grey,jeans
+9191,9191.jpg,jeans,Jeans,Blue,grey,blue,jeans
+9195,9195.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+9903,9903.jpg,jeans,Jeans,Blue,denim,blue,jeans
+10489,10489.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+11233,11233.jpg,jeans,Jeans,Black,charcoal,black,trousers
+11234,11234.jpg,jeans,Jeans,Black,charcoal,black,trousers
+11239,11239.jpg,jeans,Jeans,Black,charcoal,black,trousers
+11240,11240.jpg,jeans,Jeans,Blue,light blue,blue,jeans
+11241,11241.jpg,jeans,Jeans,Grey,grey,grey,jeans
+11290,11290.jpg,jeans,Jeans,Blue,charcoal,blue,trousers
+11311,11311.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+11315,11315.jpg,jeans,Jeans,Blue,light blue,blue,jeans
+11317,11317.jpg,jeans,Jeans,Black,charcoal,black,trousers
+11323,11323.jpg,jeans,Jeans,Blue,grey,blue,jeans
+11331,11331.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+11342,11342.jpg,jeans,Jeans,Black,light blue,black,shirt
+12759,12759.jpg,jeans,Jeans,Blue,denim,blue,jeans
+13350,13350.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+14122,14122.jpg,jeans,Jeans,Blue,grey,blue,jeans
+15670,15670.jpg,jeans,Jeans,Blue,denim,blue,jeans
+15675,15675.jpg,jeans,Jeans,Blue,denim,blue,jeans
+15676,15676.jpg,jeans,Jeans,Blue,denim,blue,jeans
+16507,16507.jpg,jeans,Jeans,Blue,grey,blue,jeans
+16515,16515.jpg,jeans,Jeans,Blue,denim,blue,jeans
+16518,16518.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+16522,16522.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+16820,16820.jpg,jeans,Jeans,Blue,grey,blue,jeans
+18193,18193.jpg,jeans,Jeans,Blue,grey,blue,jeans
+18486,18486.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+21584,21584.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+23400,23400.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+24204,24204.jpg,jeans,Jeans,Blue,grey,blue,jeans
+24607,24607.jpg,jeans,Jeans,Blue,denim,blue,jeans
+24996,24996.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+26996,26996.jpg,jeans,Jeans,Black,charcoal,black,trousers
+27001,27001.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+27002,27002.jpg,jeans,Jeans,Blue,light blue,blue,jeans
+27016,27016.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+27018,27018.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+27024,27024.jpg,jeans,Jeans,Blue,charcoal,blue,trousers
+27378,27378.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+27379,27379.jpg,jeans,Jeans,Blue,grey,blue,jeans
+27926,27926.jpg,jeans,Jeans,Blue,charcoal,blue,trousers
+27935,27935.jpg,jeans,Jeans,Lavender,light grey,lavender,trousers
+27936,27936.jpg,jeans,Jeans,Grey,light grey,grey,trousers
+28794,28794.jpg,jeans,Jeans,Blue,grey,blue,jeans
+28795,28795.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+30100,30100.jpg,jeans,Jeans,Blue,grey,blue,trousers
+30453,30453.jpg,jeans,Jeans,White,cream,white,trousers
+31110,31110.jpg,jeans,Jeans,Grey,charcoal,grey,jeans
+31164,31164.jpg,jeans,Jeans,Blue,charcoal,blue,trousers
+31337,31337.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+33147,33147.jpg,jeans,Jeans,Blue,grey,blue,jeans
+36732,36732.jpg,jeans,Jeans,Blue,black,blue,jeans
+37201,37201.jpg,jeans,Jeans,Blue,grey,blue,trousers
+38500,38500.jpg,jeans,Jeans,Black,charcoal,black,trousers
+38931,38931.jpg,jeans,Jeans,Blue,grey,blue,jeans
+39385,39385.jpg,jeans,Jeans,Grey,light grey,grey,trousers
+40364,40364.jpg,jeans,Jeans,Navy Blue,denim,navy,jeans
+40998,40998.jpg,jeans,Jeans,Black,charcoal,black,trousers
+41009,41009.jpg,jeans,Jeans,Navy Blue,charcoal,navy,jeans
+41352,41352.jpg,jeans,Jeans,Black,charcoal,black,trousers
+41356,41356.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+41360,41360.jpg,jeans,Jeans,Navy Blue,black,navy,trousers
+42256,42256.jpg,jeans,Jeans,Blue,charcoal,blue,trousers
+42258,42258.jpg,jeans,Jeans,Blue,grey,blue,jeans
+43421,43421.jpg,jeans,Jeans,Navy Blue,charcoal,navy,jeans
+44578,44578.jpg,jeans,Jeans,Blue,grey,blue,jeans
+44579,44579.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+44587,44587.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+44923,44923.jpg,jeans,Jeans,Blue,black,blue,trousers
+46908,46908.jpg,jeans,Jeans,White,white,white,trousers
+48066,48066.jpg,jeans,Jeans,Black,charcoal,black,trousers
+48384,48384.jpg,jeans,Jeans,Blue,grey,blue,jeans
+48393,48393.jpg,jeans,Jeans,Navy Blue,charcoal,navy,jeans
+48399,48399.jpg,jeans,Jeans,Blue,black,blue,trousers
+48494,48494.jpg,jeans,Jeans,Black,black,black,trousers
+50946,50946.jpg,jeans,Jeans,Blue,charcoal,blue,accessory
+50949,50949.jpg,jeans,Jeans,Navy Blue,charcoal,navy,trousers
+50957,50957.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+50958,50958.jpg,jeans,Jeans,Blue,grey,blue,jeans
+50960,50960.jpg,jeans,Jeans,Blue,charcoal,blue,trousers
+51354,51354.jpg,jeans,Jeans,Blue,light grey,blue,trousers
+51367,51367.jpg,jeans,Jeans,Navy Blue,black,navy,trousers
+51368,51368.jpg,jeans,Jeans,Blue,light grey,blue,jeans
+51495,51495.jpg,jeans,Jeans,Blue,black,blue,trousers
+51596,51596.jpg,jeans,Jeans,Black,black,black,trousers
+52536,52536.jpg,jeans,Jeans,Grey,charcoal,grey,trousers
+52547,52547.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+52555,52555.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+54796,54796.jpg,jeans,Jeans,Blue,charcoal,blue,jeans
+5956,5956.jpg,shirt,Shirts,Blue,grey,blue,shirt
+5978,5978.jpg,shirt,Shirts,Blue,light grey,blue,shirt
+6004,6004.jpg,shirt,Shirts,Blue,grey,blue,shirt
+6059,6059.jpg,shirt,Shirts,Green,cream,green,shirt
+6784,6784.jpg,shirt,Shirts,Blue,light grey,blue,shirt
+7151,7151.jpg,shirt,Shirts,Black,grey,black,shirt
+8190,8190.jpg,shirt,Shirts,Black,charcoal,black,shirt
+8584,8584.jpg,shirt,Shirts,Purple,light grey,purple,shirt
+8720,8720.jpg,shirt,Shirts,Green,light grey,green,shirt
+8778,8778.jpg,shirt,Shirts,Black,grey,black,shirt
+8811,8811.jpg,shirt,Shirts,Blue,charcoal,blue,shirt
+9593,9593.jpg,shirt,Shirts,White,light grey,white,shirt
+9610,9610.jpg,shirt,Shirts,White,light grey,white,shirt
+9636,9636.jpg,shirt,Shirts,Purple,grey,purple,shirt
+9637,9637.jpg,shirt,Shirts,Black,grey,black,shirt
+9658,9658.jpg,shirt,Shirts,Maroon,charcoal,maroon,shirt
+9659,9659.jpg,shirt,Shirts,Blue,charcoal,blue,shirt
+9660,9660.jpg,shirt,Shirts,Pink,grey,pink,shirt
+9792,9792.jpg,shirt,Shirts,White,white,white,shirt
+9806,9806.jpg,shirt,Shirts,Black,grey,black,shirt
+10255,10255.jpg,shirt,Shirts,Blue,grey,blue,shirt
+10367,10367.jpg,shirt,Shirts,Purple,grey,purple,shirt
+10611,10611.jpg,shirt,Shirts,Green,light grey,green,shirt
+10818,10818.jpg,shirt,Shirts,Red,maroon,red,shirt
+10821,10821.jpg,shirt,Shirts,Blue,grey,blue,shirt
+11067,11067.jpg,shirt,Shirts,Blue,white,blue,shirt
+11086,11086.jpg,shirt,Shirts,Green,light grey,green,shirt
+11147,11147.jpg,shirt,Shirts,Purple,light grey,purple,shirt
+11163,11163.jpg,shirt,Shirts,Blue,denim,blue,shirt
+12022,12022.jpg,shirt,Shirts,Pink,light grey,pink,shirt
+12259,12259.jpg,shirt,Shirts,Grey,grey,grey,shirt
+12297,12297.jpg,shirt,Shirts,Blue,light blue,blue,shirt
+12368,12368.jpg,shirt,Shirts,Blue,charcoal,blue,shirt
+13318,13318.jpg,shirt,Shirts,Green,khaki,green,shirt
+13728,13728.jpg,shirt,Shirts,Grey,grey,grey,shirt
+13851,13851.jpg,shirt,Shirts,Blue,grey,blue,shirt
+14678,14678.jpg,shirt,Shirts,Red,brown,red,shirt
+14766,14766.jpg,shirt,Shirts,Blue,light grey,blue,shirt
+14774,14774.jpg,shirt,Shirts,Grey,light grey,grey,shirt
+16251,16251.jpg,shirt,Shirts,Red,grey,red,shirt
+16336,16336.jpg,shirt,Shirts,Purple,charcoal,purple,shirt
+16365,16365.jpg,shirt,Shirts,Cream,beige,cream,shirt
+16400,16400.jpg,shirt,Shirts,Navy Blue,light grey,navy,shirt
+16412,16412.jpg,shirt,Shirts,Red,beige,red,shirt
+16530,16530.jpg,shirt,Shirts,Red,lavender,red,shirt
+16539,16539.jpg,shirt,Shirts,White,white,white,shirt
+16620,16620.jpg,shirt,Shirts,Red,pink,red,shirt
+18760,18760.jpg,shirt,Shirts,Grey,light grey,grey,shirt
+19717,19717.jpg,shirt,Shirts,Blue,white,blue,shirt
+20123,20123.jpg,shirt,Shirts,Black,grey,black,shirt
+21024,21024.jpg,shirt,Shirts,Blue,white,blue,shirt
+22350,22350.jpg,shirt,Shirts,Blue,light blue,blue,shirt
+22352,22352.jpg,shirt,Shirts,Green,light grey,green,shirt
+22354,22354.jpg,shirt,Shirts,Grey,grey,grey,shirt
+22381,22381.jpg,shirt,Shirts,White,grey,white,shirt
+22401,22401.jpg,shirt,Shirts,White,light grey,white,shirt
+22573,22573.jpg,shirt,Shirts,Red,light grey,red,shirt
+23034,23034.jpg,shirt,Shirts,Black,light grey,black,shirt
+23188,23188.jpg,shirt,Shirts,Purple,grey,purple,shirt
+24610,24610.jpg,shirt,Shirts,White,beige,white,shirt
+25006,25006.jpg,shirt,Shirts,Black,charcoal,black,shirt
+25539,25539.jpg,shirt,Shirts,Grey,light grey,grey,shirt
+26125,26125.jpg,shirt,Shirts,Orange,cream,orange,shirt
+26801,26801.jpg,shirt,Shirts,Lavender,lavender,lavender,shirt
+26803,26803.jpg,shirt,Shirts,Maroon,light grey,maroon,shirt
+27153,27153.jpg,shirt,Shirts,Green,white,green,shirt
+27176,27176.jpg,shirt,Shirts,White,white,white,shirt
+27855,27855.jpg,shirt,Shirts,Navy Blue,light grey,navy,shirt
+29322,29322.jpg,shirt,Shirts,Maroon,light grey,maroon,shirt
+29636,29636.jpg,shirt,Shirts,Maroon,charcoal,maroon,shirt
+29708,29708.jpg,shirt,Shirts,Purple,light grey,purple,shirt
+29795,29795.jpg,shirt,Shirts,Olive,grey,olive,shirt
+31636,31636.jpg,shirt,Shirts,Black,light grey,black,shirt
+31641,31641.jpg,shirt,Shirts,White,beige,white,shirt
+33233,33233.jpg,shirt,Shirts,White,light grey,white,shirt
+33964,33964.jpg,shirt,Shirts,Black,charcoal,black,shirt
+34496,34496.jpg,shirt,Shirts,Blue,denim,blue,shirt
+34689,34689.jpg,shirt,Shirts,White,light grey,white,shirt
+35439,35439.jpg,shirt,Shirts,Black,grey,black,shirt
+37132,37132.jpg,shirt,Shirts,Blue,light grey,blue,shirt
+37133,37133.jpg,shirt,Shirts,Black,charcoal,black,shirt
+37143,37143.jpg,shirt,Shirts,Blue,light grey,blue,shirt
+37730,37730.jpg,shirt,Shirts,Orange,tan,orange,shirt
+37737,37737.jpg,shirt,Shirts,Blue,beige,blue,shirt
+37765,37765.jpg,shirt,Shirts,Yellow,cream,yellow,shirt
+37774,37774.jpg,shirt,Shirts,Green,light grey,green,shirt
+38974,38974.jpg,shirt,Shirts,Black,grey,black,shirt
+39802,39802.jpg,shirt,Shirts,Purple,lavender,purple,shirt
+41603,41603.jpg,shirt,Shirts,Black,black,black,shirt
+43037,43037.jpg,shirt,Shirts,Green,light grey,green,shirt
+43305,43305.jpg,shirt,Shirts,Pink,beige,pink,shirt
+43960,43960.jpg,shirt,Shirts,Grey,light grey,grey,shirt
+46352,46352.jpg,shirt,Shirts,Burgundy,maroon,,shirt
+47662,47662.jpg,shirt,Shirts,Multi,beige,,shirt
+51426,51426.jpg,shirt,Shirts,White,grey,white,shirt
+51435,51435.jpg,shirt,Shirts,Pink,pink,pink,shirt
+56765,56765.jpg,shirt,Shirts,Maroon,charcoal,maroon,shirt
+57276,57276.jpg,shirt,Shirts,Red,grey,red,shirt
+57290,57290.jpg,shirt,Shirts,Grey,grey,grey,shirt
+57295,57295.jpg,shirt,Shirts,White,light grey,white,shirt
+3896,3896.jpg,skirt,Skirts,Blue,denim,blue,skirt
+3901,3901.jpg,skirt,Skirts,Blue,denim,blue,skirt
+4930,4930.jpg,skirt,Skirts,Blue,grey,blue,T-shirt
+5004,5004.jpg,skirt,Skirts,Blue,denim,blue,skirt
+5019,5019.jpg,skirt,Skirts,Navy Blue,charcoal,navy,T-shirt
+5581,5581.jpg,skirt,Skirts,Pink,grey,pink,skirt
+5586,5586.jpg,skirt,Skirts,Brown,brown,brown,skirt
+6857,6857.jpg,skirt,Skirts,Black,grey,black,skirt
+6860,6860.jpg,skirt,Skirts,Black,black,black,skirt
+6864,6864.jpg,skirt,Skirts,White,cream,white,dress
+6898,6898.jpg,skirt,Skirts,Cream,cream,cream,dress
+8493,8493.jpg,skirt,Skirts,Black,black,black,skirt
+8495,8495.jpg,skirt,Skirts,Blue,light blue,blue,skirt
+8496,8496.jpg,skirt,Skirts,Cream,cream,cream,dress
+8497,8497.jpg,skirt,Skirts,Cream,black,cream,dress
+8499,8499.jpg,skirt,Skirts,Pink,cream,pink,skirt
+8501,8501.jpg,skirt,Skirts,Blue,light grey,blue,skirt
+9994,9994.jpg,skirt,Skirts,Blue,denim,blue,jeans
+9995,9995.jpg,skirt,Skirts,Pink,beige,pink,skirt
+10000,10000.jpg,skirt,Skirts,White,white,white,accessory
+10001,10001.jpg,skirt,Skirts,Blue,denim,blue,jeans
+10002,10002.jpg,skirt,Skirts,Blue,charcoal,blue,trousers
+10351,10351.jpg,skirt,Skirts,Grey,grey,grey,dress
+10366,10366.jpg,skirt,Skirts,Black,charcoal,black,skirt
+10652,10652.jpg,skirt,Skirts,Blue,grey,blue,trousers
+10655,10655.jpg,skirt,Skirts,Blue,grey,blue,skirt
+11260,11260.jpg,skirt,Skirts,Green,khaki,green,skirt
+12839,12839.jpg,skirt,Skirts,Black,light grey,black,skirt
+12848,12848.jpg,skirt,Skirts,Blue,charcoal,blue,skirt
+13263,13263.jpg,skirt,Skirts,Pink,light grey,pink,skirt
+13264,13264.jpg,skirt,Skirts,Pink,light grey,pink,skirt
+13304,13304.jpg,skirt,Skirts,Red,maroon,red,skirt
+13305,13305.jpg,skirt,Skirts,Red,maroon,red,skirt
+13339,13339.jpg,skirt,Skirts,Black,charcoal,black,skirt
+13515,13515.jpg,skirt,Skirts,Blue,light blue,blue,jeans
+13516,13516.jpg,skirt,Skirts,Blue,light blue,blue,jeans
+14630,14630.jpg,skirt,Skirts,Brown,grey,brown,skirt
+16805,16805.jpg,skirt,Skirts,Black,charcoal,black,skirt
+18710,18710.jpg,skirt,Skirts,Tan,tan,tan,skirt
+18711,18711.jpg,skirt,Skirts,Brown,grey,brown,dress
+18712,18712.jpg,skirt,Skirts,Black,black,black,skirt
+25930,25930.jpg,skirt,Skirts,Black,black,black,skirt
+25931,25931.jpg,skirt,Skirts,Red,red,red,skirt
+26364,26364.jpg,skirt,Skirts,Grey,light grey,grey,skirt
+26863,26863.jpg,skirt,Skirts,Navy Blue,beige,navy,skirt
+27199,27199.jpg,skirt,Skirts,Grey,grey,grey,skirt
+28455,28455.jpg,skirt,Skirts,Black,light grey,black,T-shirt
+28456,28456.jpg,skirt,Skirts,Blue,denim,blue,trousers
+29171,29171.jpg,skirt,Skirts,Blue,charcoal,blue,skirt
+29172,29172.jpg,skirt,Skirts,Pink,cream,pink,accessory
+30922,30922.jpg,skirt,Skirts,Rust,brown,,skirt
+30923,30923.jpg,skirt,Skirts,Mustard,tan,mustard,skirt
+30924,30924.jpg,skirt,Skirts,Beige,tan,beige,dress
+30927,30927.jpg,skirt,Skirts,Red,olive,red,skirt
+30928,30928.jpg,skirt,Skirts,Blue,denim,blue,skirt
+30929,30929.jpg,skirt,Skirts,Grey,grey,grey,skirt
+31454,31454.jpg,skirt,Skirts,Black,charcoal,black,skirt
+31605,31605.jpg,skirt,Skirts,Black,charcoal,black,skirt
+32250,32250.jpg,skirt,Skirts,Blue,denim,blue,skirt
+32251,32251.jpg,skirt,Skirts,Purple,purple,purple,skirt
+32252,32252.jpg,skirt,Skirts,Red,maroon,red,skirt
+32591,32591.jpg,skirt,Skirts,Pink,brown,pink,skirt
+33270,33270.jpg,skirt,Skirts,White,light grey,white,skirt
+33271,33271.jpg,skirt,Skirts,Red,red,red,accessory
+33508,33508.jpg,skirt,Skirts,Blue,denim,blue,skirt
+34148,34148.jpg,skirt,Skirts,Blue,grey,blue,skirt
+34149,34149.jpg,skirt,Skirts,Blue,grey,blue,skirt
+34492,34492.jpg,skirt,Skirts,Black,charcoal,black,skirt
+34493,34493.jpg,skirt,Skirts,Grey,grey,grey,skirt
+34494,34494.jpg,skirt,Skirts,Black,charcoal,black,skirt
+34495,34495.jpg,skirt,Skirts,Grey,grey,grey,dress
+35958,35958.jpg,skirt,Skirts,Black,black,black,skirt
+37208,37208.jpg,skirt,Skirts,Black,black,black,skirt
+38504,38504.jpg,skirt,Skirts,Navy Blue,charcoal,navy,trousers
+39314,39314.jpg,skirt,Skirts,Red,red,red,accessory
+39330,39330.jpg,skirt,Skirts,White,light grey,white,skirt
+39725,39725.jpg,skirt,Skirts,Charcoal,charcoal,charcoal,skirt
+39731,39731.jpg,skirt,Skirts,Grey,charcoal,grey,skirt
+40428,40428.jpg,skirt,Skirts,Grey,white,grey,skirt
+40433,40433.jpg,skirt,Skirts,Multi,light grey,,skirt
+40434,40434.jpg,skirt,Skirts,Charcoal,charcoal,charcoal,skirt
+41003,41003.jpg,skirt,Skirts,Blue,denim,blue,jeans
+41005,41005.jpg,skirt,Skirts,Navy Blue,charcoal,navy,trousers
+41152,41152.jpg,skirt,Skirts,Grey,charcoal,grey,skirt
+41153,41153.jpg,skirt,Skirts,Charcoal,charcoal,charcoal,skirt
+44646,44646.jpg,skirt,Skirts,Black,black,black,skirt
+46814,46814.jpg,skirt,Skirts,Pink,maroon,pink,skirt
+47657,47657.jpg,skirt,Skirts,Cream,brown,cream,skirt
+47658,47658.jpg,skirt,Skirts,Purple,charcoal,purple,skirt
+48493,48493.jpg,skirt,Skirts,Black,black,black,skirt
+49635,49635.jpg,skirt,Skirts,Pink,beige,pink,accessory
+49636,49636.jpg,skirt,Skirts,Blue,grey,blue,skirt
+49655,49655.jpg,skirt,Skirts,Pink,tan,pink,skirt
+57084,57084.jpg,skirt,Skirts,Blue,light blue,blue,dress
+57086,57086.jpg,skirt,Skirts,Pink,brown,pink,skirt
+57087,57087.jpg,skirt,Skirts,Yellow,cream,yellow,dress
+57088,57088.jpg,skirt,Skirts,Teal,teal,teal,skirt
+57089,57089.jpg,skirt,Skirts,Navy Blue,black,navy,skirt
+57090,57090.jpg,skirt,Skirts,Navy Blue,charcoal,navy,skirt
+57092,57092.jpg,skirt,Skirts,Off White,cream,,dress
+8839,8839.jpg,trousers,Trousers,Grey,charcoal,grey,trousers
+8846,8846.jpg,trousers,Trousers,Cream,beige,cream,trousers
+8937,8937.jpg,trousers,Trousers,Brown,charcoal,brown,trousers
+8948,8948.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+9894,9894.jpg,trousers,Trousers,Black,black,black,trousers
+10261,10261.jpg,trousers,Trousers,Brown,charcoal,brown,trousers
+10262,10262.jpg,trousers,Trousers,Black,charcoal,black,trousers
+12219,12219.jpg,trousers,Trousers,Green,charcoal,green,trousers
+12220,12220.jpg,trousers,Trousers,Black,black,black,trousers
+12290,12290.jpg,trousers,Trousers,Black,charcoal,black,trousers
+12344,12344.jpg,trousers,Trousers,Beige,grey,beige,dress
+12674,12674.jpg,trousers,Trousers,Olive,olive,olive,trousers
+12679,12679.jpg,trousers,Trousers,Black,charcoal,black,trousers
+13228,13228.jpg,trousers,Trousers,Navy Blue,black,navy,trousers
+13229,13229.jpg,trousers,Trousers,Navy Blue,black,navy,trousers
+13288,13288.jpg,trousers,Trousers,Beige,light grey,beige,trousers
+13307,13307.jpg,trousers,Trousers,Black,charcoal,black,trousers
+13780,13780.jpg,trousers,Trousers,Cream,light grey,cream,trousers
+13784,13784.jpg,trousers,Trousers,Black,charcoal,black,trousers
+14285,14285.jpg,trousers,Trousers,Brown,charcoal,brown,trousers
+14688,14688.jpg,trousers,Trousers,Beige,cream,beige,trousers
+14689,14689.jpg,trousers,Trousers,Brown,grey,brown,trousers
+14693,14693.jpg,trousers,Trousers,Black,charcoal,black,jeans
+15109,15109.jpg,trousers,Trousers,Black,black,black,trousers
+15113,15113.jpg,trousers,Trousers,Black,charcoal,black,trousers
+15114,15114.jpg,trousers,Trousers,Charcoal,charcoal,charcoal,trousers
+15119,15119.jpg,trousers,Trousers,Grey,charcoal,grey,trousers
+15683,15683.jpg,trousers,Trousers,Khaki,beige,khaki,trousers
+15686,15686.jpg,trousers,Trousers,Khaki,beige,khaki,trousers
+16019,16019.jpg,trousers,Trousers,Grey,light grey,grey,trousers
+16020,16020.jpg,trousers,Trousers,Grey,charcoal,grey,trousers
+16059,16059.jpg,trousers,Trousers,Olive,grey,olive,trousers
+16061,16061.jpg,trousers,Trousers,Olive,olive,olive,trousers
+16063,16063.jpg,trousers,Trousers,Olive,grey,olive,trousers
+16070,16070.jpg,trousers,Trousers,Khaki,beige,khaki,trousers
+16072,16072.jpg,trousers,Trousers,Black,charcoal,black,trousers
+16613,16613.jpg,trousers,Trousers,Grey,charcoal,grey,trousers
+16798,16798.jpg,trousers,Trousers,Black,charcoal,black,trousers
+16799,16799.jpg,trousers,Trousers,Grey,grey,grey,trousers
+17577,17577.jpg,trousers,Trousers,Grey,grey,grey,trousers
+18197,18197.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+21598,21598.jpg,trousers,Trousers,Black,black,black,trousers
+22369,22369.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+22370,22370.jpg,trousers,Trousers,Olive,olive,olive,trousers
+23039,23039.jpg,trousers,Trousers,Beige,beige,beige,trousers
+26134,26134.jpg,trousers,Trousers,Black,charcoal,black,trousers
+26145,26145.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+26150,26150.jpg,trousers,Trousers,Grey,charcoal,grey,trousers
+26154,26154.jpg,trousers,Trousers,Black,charcoal,black,trousers
+26157,26157.jpg,trousers,Trousers,Black,charcoal,black,trousers
+26158,26158.jpg,trousers,Trousers,Grey,grey,grey,trousers
+26159,26159.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+26162,26162.jpg,trousers,Trousers,Black,black,black,trousers
+26372,26372.jpg,trousers,Trousers,Grey,light grey,grey,trousers
+26384,26384.jpg,trousers,Trousers,Black,charcoal,black,trousers
+26504,26504.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+26826,26826.jpg,trousers,Trousers,Black,charcoal,black,trousers
+26838,26838.jpg,trousers,Trousers,Grey,grey,grey,trousers
+26843,26843.jpg,trousers,Trousers,Grey,light grey,grey,trousers
+26844,26844.jpg,trousers,Trousers,Black,charcoal,black,trousers
+27183,27183.jpg,trousers,Trousers,Charcoal,charcoal,charcoal,trousers
+27604,27604.jpg,trousers,Trousers,Khaki,beige,khaki,trousers
+27607,27607.jpg,trousers,Trousers,Cream,light grey,cream,trousers
+27614,27614.jpg,trousers,Trousers,Beige,khaki,beige,trousers
+27622,27622.jpg,trousers,Trousers,Grey,grey,grey,trousers
+27902,27902.jpg,trousers,Trousers,Black,charcoal,black,trousers
+27908,27908.jpg,trousers,Trousers,Black,charcoal,black,trousers
+27923,27923.jpg,trousers,Trousers,Black,charcoal,black,trousers
+27924,27924.jpg,trousers,Trousers,Beige,white,beige,trousers
+29402,29402.jpg,trousers,Trousers,Black,charcoal,black,trousers
+29685,29685.jpg,trousers,Trousers,Charcoal,charcoal,charcoal,trousers
+29779,29779.jpg,trousers,Trousers,Khaki,light grey,khaki,trousers
+30917,30917.jpg,trousers,Trousers,Black,charcoal,black,trousers
+30921,30921.jpg,trousers,Trousers,Blue,denim,blue,trousers
+31425,31425.jpg,trousers,Trousers,Grey,grey,grey,trousers
+31439,31439.jpg,trousers,Trousers,Olive,grey,olive,trousers
+31474,31474.jpg,trousers,Trousers,Brown,black,brown,trousers
+31570,31570.jpg,trousers,Trousers,Black,charcoal,black,trousers
+32405,32405.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+37135,37135.jpg,trousers,Trousers,Cream,beige,cream,trousers
+37195,37195.jpg,trousers,Trousers,Beige,beige,beige,trousers
+38122,38122.jpg,trousers,Trousers,Khaki,tan,khaki,trousers
+38983,38983.jpg,trousers,Trousers,Charcoal,charcoal,charcoal,trousers
+39764,39764.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+39806,39806.jpg,trousers,Trousers,Black,charcoal,black,trousers
+39809,39809.jpg,trousers,Trousers,Brown,charcoal,brown,trousers
+42251,42251.jpg,trousers,Trousers,Grey,light grey,grey,trousers
+43522,43522.jpg,trousers,Trousers,Navy Blue,black,navy,trousers
+43918,43918.jpg,trousers,Trousers,Yellow,mustard,yellow,trousers
+44288,44288.jpg,trousers,Trousers,Black,black,black,trousers
+44290,44290.jpg,trousers,Trousers,Navy Blue,black,navy,trousers
+44667,44667.jpg,trousers,Trousers,Black,black,black,trousers
+44945,44945.jpg,trousers,Trousers,Navy Blue,charcoal,navy,trousers
+48391,48391.jpg,trousers,Trousers,Grey,black,grey,trousers
+48495,48495.jpg,trousers,Trousers,Olive,olive,olive,trousers
+48498,48498.jpg,trousers,Trousers,Grey,charcoal,grey,trousers
+53228,53228.jpg,trousers,Trousers,Charcoal,black,charcoal,trousers
+54225,54225.jpg,trousers,Trousers,Khaki,khaki,khaki,trousers
+54226,54226.jpg,trousers,Trousers,Charcoal,charcoal,charcoal,trousers
+57824,57824.jpg,trousers,Trousers,Green,grey,green,trousers

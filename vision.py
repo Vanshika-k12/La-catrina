@@ -57,16 +57,23 @@ def load_clip():
     torch.set_num_threads(max(1, torch.get_num_threads()))
     model = CLIPModel.from_pretrained(MODEL_NAME).eval()
     processor = CLIPProcessor.from_pretrained(MODEL_NAME)
+    clip = {"model": model, "processor": processor}
+    clip["text_embs"] = text_embeddings(clip, PROMPTS)
+    return clip
+
+
+def text_embeddings(clip, prompts):
+    """One unit vector per category: the average of its prompts' CLIP text embeddings.
+    `prompts` maps each name in CATEGORIES to a list of prompt strings."""
     with torch.no_grad():
         class_embs = []
         for cat in CATEGORIES:
-            tok = processor(text=PROMPTS[cat], return_tensors="pt", padding=True)
-            t = _features(model.get_text_features(**tok))
+            tok = clip["processor"](text=prompts[cat], return_tensors="pt", padding=True)
+            t = _features(clip["model"].get_text_features(**tok))
             t = t / t.norm(dim=-1, keepdim=True)
             m = t.mean(dim=0)
             class_embs.append(m / m.norm())
-        text_embs = torch.stack(class_embs)
-    return {"model": model, "processor": processor, "text_embs": text_embs}
+        return torch.stack(class_embs)
 
 
 def prepare_image(img, max_side=448):
@@ -101,6 +108,27 @@ def dominant_colours(img, k=3):
     garment) are merged, and the k largest distinct colours are returned.
     Returns a list of {name, rgb, share}, largest first.
     """
+    centers, counts = colour_clusters(img)
+    return name_clusters(centers, counts, k)
+
+
+def name_clusters(centers, counts, k=3):
+    """Name K-Means clusters, merge clusters with the same name, return the k largest."""
+    merged = {}
+    for centre_rgb, cnt in zip(centers, counts):
+        name = rgb_to_name(centre_rgb)
+        tot, rgb_sum = merged.get(name, (0, np.zeros(3)))
+        merged[name] = (tot + cnt, rgb_sum + centre_rgb * cnt)
+    ranked = sorted(merged.items(), key=lambda kv: -kv[1][0])[:k]
+    total = counts.sum()
+    return [{"name": name, "rgb": [int(round(v)) for v in rgb_sum / cnt],
+             "share": round(float(cnt / total), 3)}
+            for name, (cnt, rgb_sum) in ranked]
+
+
+def colour_clusters(img):
+    """Background removal + K-Means (up to 5 clusters) on garment pixels.
+    Returns (cluster centre RGBs, pixel counts), unnamed - naming happens in dominant_colours."""
     # plain-background photos have few distinct colours; K-Means then warns harmlessly
     warnings.filterwarnings("ignore", category=ConvergenceWarning)
     img = prepare_image(img, max_side=128)
@@ -116,14 +144,4 @@ def dominant_colours(img, k=3):
 
     n = min(5, len(np.unique(px, axis=0)))
     km = KMeans(n_clusters=n, n_init=10, random_state=SEED).fit(px)
-    counts = np.bincount(km.labels_, minlength=n)
-    merged = {}
-    for centre_rgb, cnt in zip(km.cluster_centers_, counts):
-        name = rgb_to_name(centre_rgb)
-        tot, rgb_sum = merged.get(name, (0, np.zeros(3)))
-        merged[name] = (tot + cnt, rgb_sum + centre_rgb * cnt)
-    ranked = sorted(merged.items(), key=lambda kv: -kv[1][0])[:k]
-    total = counts.sum()
-    return [{"name": name, "rgb": [int(round(v)) for v in rgb_sum / cnt],
-             "share": round(float(cnt / total), 3)}
-            for name, (cnt, rgb_sum) in ranked]
+    return km.cluster_centers_, np.bincount(km.labels_, minlength=n)
