@@ -1,0 +1,124 @@
+{
+ "source": "ashraq/fashion-product-images-small sample, development split (seed 0, 434 images)",
+ "method": "mean CIELAB of largest garment cluster per labelled colour",
+ "n_dev": {
+  "beige": 7,
+  "black": 110,
+  "blue": 83,
+  "brown": 21,
+  "charcoal": 5,
+  "cream": 8,
+  "green": 13,
+  "grey": 32,
+  "khaki": 5,
+  "lavender": 2,
+  "maroon": 3,
+  "navy": 26,
+  "olive": 8,
+  "orange": 5,
+  "pink": 22,
+  "purple": 11,
+  "red": 27,
+  "tan": 3,
+  "teal": 1,
+  "white": 36,
+  "yellow": 6
+ },
+ "lab": {
+  "beige": [
+   75.92,
+   1.87,
+   13.27
+  ],
+  "black": [
+   25.41,
+   -0.1,
+   0.09
+  ],
+  "blue": [
+   48.25,
+   0.02,
+   -12.61
+  ],
+  "brown": [
+   35.88,
+   5.55,
+   9.38
+  ],
+  "charcoal": [
+   30.7,
+   -2.88,
+   -0.12
+  ],
+  "cream": [
+   84.81,
+   3.73,
+   13.85
+  ],
+  "green": [
+   72.28,
+   -13.63,
+   12.52
+  ],
+  "grey": [
+   49.31,
+   -0.76,
+   -0.04
+  ],
+  "khaki": [
+   72.44,
+   1.33,
+   15.94
+  ],
+  "maroon": [
+   41.72,
+   14.37,
+   0.45
+  ],
+  "navy": [
+   24.57,
+   2.21,
+   -4.58
+  ],
+  "olive": [
+   36.84,
+   -0.67,
+   10.12
+  ],
+  "orange": [
+   55.52,
+   30.89,
+   32.24
+  ],
+  "pink": [
+   67.66,
+   28.42,
+   5.94
+  ],
+  "purple": [
+   52.62,
+   14.12,
+   -10.14
+  ],
+  "red": [
+   44.97,
+   43.31,
+   18.16
+  ],
+  "tan": [
+   55.77,
+   5.51,
+   21.18
+  ],
+  "white": [
+   83.5,
+   1.36,
+   2.46
+  ],
+  "yellow": [
+   83.09,
+   -1.15,
+   35.2
+  ]
+ }
+}

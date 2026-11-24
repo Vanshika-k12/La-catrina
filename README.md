@@ -15,7 +15,7 @@ A small Streamlit app that runs locally on CPU and works in a phone browser. It 
 - **The compatibility score is a baseline.** It is not trained on outfit data (for example Polyvore) yet. It averages two parts:
   - the mean pairwise **CLIP image-embedding cosine similarity** of the pieces (visual similarity, not learned "goes-together-ness"), and
   - **hand-written HSV colour-harmony rules**: neutrals reward, analogous hues (within 30°) reward, complementary hues (150° or more apart) reward, and two saturated colours that fit none of these are penalised.
-- Category detection is zero-shot CLIP with hand-written prompts. No fine-tuning has been done. Measure it on your own photos with `evaluate.py`. On the 10 labelled photos in this project: category 10/10 (but the tank-top/camisole prompts were added after looking at these same photos, so this is optimistic) and exact main-colour name 4/10.
+- Category detection is zero-shot CLIP with hand-written prompts. No fine-tuning has been done. Measure it on your own photos with `evaluate.py`. On 900 public product images: category **87.2%** and exact main-colour name **21.9%** (see [Public-dataset evaluation](#public-dataset-evaluation)). On the 10 labelled photos in this project, category was 10/10 (optimistic: the prompts were adjusted after seeing those photos) and colour was 4/10.
 - Dominant colours use a simple heuristic, not segmentation:
   1. Drop pixels that match the photo's border colours.
   2. Run K-Means on the centre 70% of the photo.
@@ -184,6 +184,43 @@ The script runs 11 tests on a synthetic wardrobe in a temporary data folder (you
 
 Options: `--labels path.csv` and `--photos folder`.
 
+## Public-dataset evaluation
+
+Ten personal photos are too few for a credible accuracy figure, so `evaluate_public.py` also tests the unchanged vision pipeline on a public dataset. It runs evaluation only; nothing is trained.
+
+- **Dataset:** "Fashion Product Images (Small)", the Hugging Face mirror `ashraq/fashion-product-images-small` (44,072 product photos, 60 × 80 px, labelled with type and colour).
+- **Sample:** a random sample (seed 0) of 100 images per category. Dataset types are mapped to our 9 categories; types with no clear match are excluded.
+
+```powershell
+python evaluate_public.py --download --per-class 100
+```
+```powershell
+python evaluate_public.py --run
+```
+
+The download is about 1.3 MB into `eval_data/`, which is git-ignored. The run writes `eval_results/public_eval.md` and a CSV of predictions.
+
+**Measured results** (900 images):
+
+| What | Result | 95% CI |
+|---|---|---|
+| Category accuracy, current prompts | **87.2%** | 84.9–89.2% |
+| Category accuracy, one generic prompt per class | 88.4% | 86.2–90.4% |
+| Main colour, exact palette name (869 images with a matching label) | 21.9% | 19.2–24.7% |
+| Main colour, same colour family | 36.6% | 33.5–39.8% |
+
+- **Categories.** The weakest distinction is jeans vs trousers (jeans recall 0.63). The three prompt designs are statistically indistinguishable, so the extra "tank top / camisole" prompts gave no measurable gain here.
+- **Colours.** Colour naming is the weakest part of the pipeline. Shaded black fabric extracts to about RGB (61, 59, 59) and is named "charcoal"; shaded white is named "light grey".
+
+**Colour calibration experiment** (`python evaluate_public.py --calibrate`, full report in `eval_results/colour_calibration.md`):
+
+1. The colour-labelled images were split 50/50 into development and test halves.
+2. The reference colours were learned on the 434 development images.
+3. On the 435 held-out test images, exact accuracy rose from **20.2% to 39.3%** and family accuracy from **36.3% to 55.9%** (McNemar p ≈ 3.5e-12).
+4. On the 10 labelled phone photos, however, exact accuracy fell from **4/10 to 2/10**: product-photo lighting doesn't transfer to room-lit phone photos.
+
+**The app therefore keeps the original swatches.** The learned references are saved in `eval_results/colour_calibration_candidate.json`; to try them, copy that file to `colour_calibration.json` in the project folder.
+
 ## Reproducibility
 
 The following use seed 0:
@@ -206,6 +243,7 @@ Logistic Regression (lbfgs) is deterministic, so the same feedback file always g
 | `preference.py` | scikit-learn preference model (StandardScaler + LogisticRegression), readiness rules, evaluation |
 | `storage.py` | Local JSON + photo storage; one rating per outfit (change / clear supported) |
 | `evaluate.py` | Category accuracy against `labels.csv`; `--preferences` evaluates the preference model |
+| `evaluate_public.py` | Category and colour evaluation on a sample of a public fashion dataset |
 | `test_personalisation.py` | 11 tests: readiness, learning, scoring formula, explanations, planner validity, persistence, evaluation |
 
 ## Roadmap (not built yet)

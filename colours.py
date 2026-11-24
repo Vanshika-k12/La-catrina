@@ -1,5 +1,7 @@
 """Colour naming and HSV colour-harmony rules (no ML here, just simple rules)."""
 import colorsys
+import json
+import os
 
 import numpy as np
 
@@ -55,11 +57,38 @@ def _srgb_to_lab(rgb):
 
 _PALETTE_LAB = _srgb_to_lab(np.array(list(PALETTE.values())))
 
+# Colour NAMING uses reference points in CIELAB. By default these are the ideal swatches above.
+# colour_calibration.json (made by `python evaluate_public.py --calibrate`) replaces them with the
+# average colour actually extracted from labelled photos, e.g. shaded black fabric. The swatches
+# shown in the app and the harmony rules always use PALETTE.
+CALIBRATION_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "colour_calibration.json")
+
+
+def _load_calibration():
+    if not os.path.exists(CALIBRATION_FILE):
+        return {}
+    with open(CALIBRATION_FILE, "r", encoding="utf-8") as f:
+        return {k: v for k, v in json.load(f).get("lab", {}).items() if k in PALETTE}
+
+
+def set_naming_reference(calibrated_lab=None):
+    """Use ideal swatches (None) or {name: [L, a, b]} overrides for colour naming."""
+    global _NAMING_LAB
+    _NAMING_LAB = _PALETTE_LAB.copy()
+    for name, lab in (calibrated_lab or {}).items():
+        _NAMING_LAB[COLOUR_NAMES.index(name)] = lab
+
+
+set_naming_reference(_load_calibration())
+
+
+def rgb_to_lab(rgb):
+    return _srgb_to_lab(np.array([rgb], dtype=float))[0]
+
 
 def rgb_to_name(rgb):
-    """Nearest palette colour name for one RGB triple."""
-    lab = _srgb_to_lab(np.array([rgb]))[0]
-    d = np.linalg.norm(_PALETTE_LAB - lab, axis=1)
+    """Nearest palette colour name for one RGB triple (perceptual distance in CIELAB)."""
+    d = np.linalg.norm(_NAMING_LAB - rgb_to_lab(rgb), axis=1)
     return COLOUR_NAMES[int(np.argmin(d))]
 
 
