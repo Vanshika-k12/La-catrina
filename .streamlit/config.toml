@@ -1,0 +1,29 @@
+# La Catrina - Vintage Analog / Retro Film theme
+#   film cream  #F5E6C8  page background
+#   kodak tan   #D4A574  borders, "corrected" badge
+#   faded teal  #4A7B7C  primary buttons (white text 4.8:1); darker #335859 for teal TEXT (links, 5.4:1 under grain)
+#   dusty rose  #E8B4B8  rank badges, light leaks
+#   sepia brown #8B4513  headings / day names (5.8:1 on cream)
+#   grey        #6B7280  not used for text (3.9:1 on cream is below AA)
+#   ink         #4E342E  body text (9.2:1 on cream)
+# Film grain, polaroid frames and motion are CSS in app.py (theme config can't do those).
+[theme]
+base = "light"
+primaryColor = "#4A7B7C"
+backgroundColor = "#F5E6C8"
+secondaryBackgroundColor = "#EDD9B5"
+textColor = "#4E342E"
+linkColor = "#335859"
+borderColor = "#D4A574"
+font = "serif"
+headingFont = "serif"
+headingFontWeights = [400, 400, 400, 400, 400, 400]
+baseRadius = "small"
+dataframeHeaderBackgroundColor = "#E8B4B8"
+dataframeHeaderTextColor = "#4E342E"
+dataframeBorderColor = "#D4A574"
+orangeColor = "#B07A45"
+orangeBackgroundColor = "#EED6B4"
+orangeTextColor = "#6B3410"
+blueColor = "#4A7B7C"
+blueTextColor = "#335859"
